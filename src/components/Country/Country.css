@@ -1,0 +1,12 @@
+.country {
+    background-color: darkslategrey;
+    color: white;
+    border: 3px solid khaki;
+    padding: 15px 10px;
+    border-radius: 12px;
+}
+
+.country img{
+    width: 150px;
+    height: 100px;
+}

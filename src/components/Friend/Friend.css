@@ -1,0 +1,15 @@
+.friend{
+    background-color: darkslategrey;
+    color: white;
+    border: 3px solid khaki;
+    padding: 20px 30px;
+    border-radius: 12px;
+}
+
+.link-color{
+    color: darkcyan;
+    text-decoration: none;
+    background-color: gainsboro;
+    padding: 2px 5px;
+    border-radius: 4px;
+}

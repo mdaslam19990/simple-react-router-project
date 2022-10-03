@@ -1,0 +1,16 @@
+.post {
+    background-color: darkslategrey;
+    color: white;
+    border: 3px solid khaki;
+    padding: 20px 10px;
+    border-radius: 12px;
+    position: relative;
+}
+.desc{
+    text-align: justify;
+}
+.button{
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+}

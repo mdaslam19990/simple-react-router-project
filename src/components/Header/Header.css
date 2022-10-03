@@ -1,0 +1,16 @@
+.header{
+    margin-top: 30px;
+}
+.header a{
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 2px 5px;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+.active{
+    color: white;
+    font-size: 18px;
+    background: grey !important;
+}
